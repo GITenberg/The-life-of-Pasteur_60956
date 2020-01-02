@@ -1,5 +1,5 @@
 _repo: The-life-of-Pasteur_60956
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Osler, William
@@ -12,6 +12,9 @@ contributor:
     agent_name: Devonshire, R. L.
     gutenberg_agent_id: '51204'
     url: http://www.gutenberg.org/2009/agents/51204
+covers:
+- cover_type: archival
+  image_path: 60956-h/images/cover.jpg
 creator:
   author:
     agent_name: Vallery-Radot, René
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '44351'
     url: http://www.gutenberg.org/2009/agents/44351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60956#The-life-of-Pasteur
 gutenberg_issued: '2019-12-18'
 gutenberg_type: Text
 identifiers:
