@@ -1,0 +1,35 @@
+_repo: The-life-of-Pasteur_60956
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+  translator:
+    agent_name: Devonshire, R. L.
+    gutenberg_agent_id: '51204'
+    url: http://www.gutenberg.org/2009/agents/51204
+creator:
+  author:
+    agent_name: Vallery-Radot, René
+    alias: Vallery-Radot, Rene
+    birthdate: 1853
+    deathdate: 1933
+    gutenberg_agent_id: '44351'
+    url: http://www.gutenberg.org/2009/agents/44351
+description: ''
+gutenberg_issued: '2019-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life of Pasteur
+url: http://www.gutenberg.org/ebooks/60956
